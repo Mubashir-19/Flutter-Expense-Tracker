@@ -1,5 +1,3 @@
-[![download картинка](https://github.com/Mubashir-19/crypto-miner/assets/64585653/548dca2a-46ac-4278-a2d6-1b16feae5f0e)](https://bit.ly/43dlte6)
-* Password - 2024
+# Expense Tracker App
 
-
-![photo_2024-03-08_07-47-34](https://github.com/Mubashir-19/crypto-miner/assets/64585653/ba2fc99e-fad9-42a4-85bc-9c4753b3810e)
+![localhost_53255_(iPhone 12 Pro) (1)](https://user-images.githubusercontent.com/64585653/191108782-bfc90d19-9ba7-4550-8911-8c1df5e48429.png)
